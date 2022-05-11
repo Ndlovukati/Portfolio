@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'portfolio';
+  status: boolean = false;
+  //smoothScroller
+
+  clickEvent(){
+    this.status = !this.status;
+}
 }
