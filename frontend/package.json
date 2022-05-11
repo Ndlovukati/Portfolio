@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "bootstrap": "^5.1.3",
-    "ng-snotify": "^9.0.1"
-  }
-}
